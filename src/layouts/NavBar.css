@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.2rem 20%;
+}
+
+ul {
+  display: flex;
+  gap: 3rem;
+  margin: 15px;
+  list-style: none;
+}
+
+li {
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}

@@ -1,0 +1,15 @@
+.reservation {
+  padding: 3rem 0 0 0;
+  gap: 2rem;
+  background-color: #edefee;
+}
+
+.reservation section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.reservation h1 {
+  text-align: center;
+}
